@@ -1,0 +1,39 @@
+{
+  "prompt_structure": {
+    "subject": {
+      "demographics": "Young woman with fair skin and natural freckles",
+      "hair": "Vibrant red hair styled in a high, messy bun",
+      "face": "Calm expression, direct gaze, minimal natural makeup, sun-kissed complexion",
+      "body": "Slender physique, visible fine-line flower tattoo on inner left forearm, small script tattoo on ribcage",
+      "clothing": "Mint green triangle bikini set with thin straps",
+      "accessories": "Chunky gold chain necklace, delicate gold bracelet on right wrist"
+    },
+    "pose_and_action": {
+      "posture": "Reclining gracefully on a wicker lounge chair",
+      "arm_placement": "Left elbow bent with hand resting against cheek/temple, right arm relaxed along the side",
+      "leg_placement": "Legs extended and crossed at the ankles"
+    },
+    "environment": {
+      "setting": "Luxurious resort poolside",
+      "foreground": "Woven wicker lounge chair with beige cushion, edge of a thatched straw umbrella overhead",
+      "midground": "Turquoise swimming pool water, pool deck with additional loungers",
+      "background": "Beige stucco resort architecture with arched balconies, palm trees against a clear blue sky"
+    },
+    "lighting": {
+      "type": "Natural daylight, golden hour influence",
+      "direction": "Soft overhead sunlight filtering through a straw umbrella",
+      "shadows": "Gentle, natural shadows cast on the subject and chair"
+    },
+    "mood_and_atmosphere": {
+      "vibe": "Relaxed, serene, vacation leisure, summer elegance",
+      "tonality": "Warm, inviting, peaceful"
+    },
+    "technical_specs": {
+      "style": "Ultra Photorealistic, 8k resolution, high definition",
+      "camera": "DSLR, 50mm lens",
+      "aperture": "f/2.8 for slight depth of field blurring the resort background",
+      "focus": "Sharp focus on subject's face and upper body",
+      "color_grading": "Vibrant but natural colors, emphasis on blues, greens, and warm skin tones"
+    }
+  }
+}
